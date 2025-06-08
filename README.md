@@ -14,3 +14,6 @@ The objective of this project is to analyze ride booking data from OLA to uncove
  8. Ride Distance Distribution Per Day
  9. Driver Ratings Distribution
  10. Customer vs. Driver Ratings
+
+## DASHBOARD
+- <a href="https://github.com/harshit-56/Data---analyst-project/commit/4777003d9658f286d0139bc1407ed8b13682f60e">
