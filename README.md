@@ -2,7 +2,7 @@
 ## Project Objective
 The objective of this project is to analyze ride booking data from OLA to uncover patterns in customer behavior, driver performance, booking status trends, and payment preferences. The aim is to generate actionable insights that can help improve operational efficiency, customer satisfaction, and revenue optimization for the ride-hailing platform.
 ## DATASET
-- <a href="https://github.com/harshit-56/Data---analyst-project/commit/91b92d4832d132021df83ce8a7a7be1fde55c35c#diff-6ba1ed9dcf3051436f1c07638917608af258d07b9bd2dde5e0b38823198d9159">
+-<a href="https://docs.google.com/spreadsheets/d/1RRgQP6rfjqQMHDfC89wF1QywZoui831cHjEXcM60Tpc/edit?gid=1797583906#gid=1797583906">
 ## QUERIES SOLVED
  1. Ride Volume Over Time
  2. Booking Status Breakdown
@@ -16,4 +16,5 @@ The objective of this project is to analyze ride booking data from OLA to uncove
  10. Customer vs. Driver Ratings
 
 ## DASHBOARD
-- <a href="https://github.com/harshit-56/Data---analyst-project/commit/4777003d9658f286d0139bc1407ed8b13682f60e">
+![Screenshot 2025-06-08 191229](https://github.com/user-attachments/assets/a7f6b6f9-0831-4858-89ee-6e2c4662f288)
+
